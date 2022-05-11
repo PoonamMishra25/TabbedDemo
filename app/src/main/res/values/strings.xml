@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabbedDemo</string>
+    <string name="tab_text_1">Call</string>
+    <string name="tab_text_2">Favorite</string>
+    <string name="tab_text_3">History</string>
+    <!-- TOD
+    O: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Call Fragment</string>
+    <string name="history_name">History Fragment</string>
+    <string name="favorite_name">Favorite Fragment</string>
+</resources>
