@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         val tabs: TabLayout = binding.tabs
 
         tabs.setupWithViewPager(viewPager)
-      //  val fab: FloatingActionButton = binding.fab
+        val fab: FloatingActionButton = binding.fab
 
         tabs.getTabAt(0)?.icon=getDrawable(R.drawable.call)
         tabs.getTabAt(1)?.icon=getDrawable(R.drawable.favorite)
