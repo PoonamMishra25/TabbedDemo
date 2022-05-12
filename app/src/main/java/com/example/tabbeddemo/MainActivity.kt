@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         tabs.getTabAt(2)?.icon=getDrawable(R.drawable.history)
        //tabs.setTabIconTintResource(R.color.red)
 //        tabs.tabTextColors=
-
+//// new newnewnewn
 
 //        fab.setOnClickListener { view ->
 //            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
