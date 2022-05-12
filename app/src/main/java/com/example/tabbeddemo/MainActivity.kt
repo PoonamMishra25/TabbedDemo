@@ -32,14 +32,9 @@ class MainActivity : AppCompatActivity() {
         tabs.getTabAt(0)?.icon=getDrawable(R.drawable.call)
         tabs.getTabAt(1)?.icon=getDrawable(R.drawable.favorite)
         tabs.getTabAt(2)?.icon=getDrawable(R.drawable.history)
-        tabs.setTabIconTintResource(R.color.red)
+       //tabs.setTabIconTintResource(R.color.red)
 //        tabs.tabTextColors=
-//        tabs.getTabAt(0)?.setTag(R.color.teal_700)
-//        private void setupTabIcons() {
-//            tabLayout.getTabAt(0).setIcon(tabIcons[0]);
-//            tabLayout.getTabAt(1).setIcon(tabIcons[1]);
-//            tabLayout.getTabAt(2).setIcon(tabIcons[2]);
-//        }
+
 
 //        fab.setOnClickListener { view ->
 //            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
